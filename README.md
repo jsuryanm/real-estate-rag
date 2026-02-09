@@ -105,8 +105,5 @@ MIT License - see [LICENSE](LICENSE) file
 
 ---
 
-## Contact
-
-Made by [Surya](https://github.com/jsuryanm)
 
 ⭐ Star this repo if you find it useful!
